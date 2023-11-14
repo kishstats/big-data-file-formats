@@ -1,0 +1,7 @@
+.DS_Store
+venv
+__pycache__
+.vscode
+
+files/Parking_Violations_Issued_-_Fiscal_Year_2015.csv
+files/Parking_Violations_Issued_-_Fiscal_Year_2015.parquet
